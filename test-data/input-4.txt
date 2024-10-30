@@ -1,0 +1,3 @@
+#if one cannon can fire then firingmode all should work
+GT4500,1,1,2,0 # create ship that has one cannon fail, other work
+TORPEDO,ALL # try and shoot both cannons, secondary should work

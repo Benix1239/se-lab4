@@ -1,0 +1,4 @@
+SUCCESS # create ship
+SUCCESS # first firing
+SUCCESS # second firing
+SUCCESS # third firing

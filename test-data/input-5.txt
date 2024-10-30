@@ -1,0 +1,5 @@
+#check if ship can still use cannon if one is empty
+GT4500,1,0,2,0 # create ship with one cannon empty, other with multiple torpedos
+TORPEDO,SINGLE # shoot once :  should work shoot from first cannon
+TORPEDO,SINGLE # shoot second time :  should work shoot from second cannon
+TORPEDO,SINGLE # shoot for the third time :should try the first cannon, but since it's empty use the second cannon : should work

@@ -1,0 +1,2 @@
+SUCCESS # create ship
+SUCCESS # fire all : secondary cannon should work

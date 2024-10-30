@@ -1,0 +1,5 @@
+SUCCESS # create ship
+FAIL # fire first cannon
+SUCCESS # fire second cannon
+FAIL # fire first cannon
+SUCCESS # fire second cannon
