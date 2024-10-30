@@ -1,0 +1,3 @@
+SUCCESS # create ship
+SUCCESS #first firingmode
+SUCCESS #second firing

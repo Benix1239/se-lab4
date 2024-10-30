@@ -1,0 +1,4 @@
+#check if primary gets used if second is empty
+GT4500,2,0,0,0 # create ship with emptyy secondary
+TORPEDO,single #fire first should work
+TORPEDO,SINGLE #fire again, should use primary , should work

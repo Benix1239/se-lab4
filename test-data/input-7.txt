@@ -1,0 +1,4 @@
+#fail to shoot after secondary is empty, first is also empty after first firing
+GT4500,1,0,0,0 # create ship primary with one ammo
+TORPEDO,single # shoot first should succeed
+TORPEDO,single # shoot second should fail bc all is empty
