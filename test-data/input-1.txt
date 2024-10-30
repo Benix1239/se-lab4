@@ -1,0 +1,3 @@
+#empty cannon cannot shoot
+GT4500,0,0,0,0 #create ship with all empty cannons
+TORPEDO,single #empty cannon cannot be shot : should fail

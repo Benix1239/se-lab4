@@ -1,0 +1,6 @@
+#should use cannons alternatively, if one cannon fails, the other should not be used, primary cann should be used first
+GT4500,2,1,2,0 #create ship that has one cannon always fail, other that never fails
+TORPEDO,single # <- fire first should fail
+TORPEDO,single # <- fire second should success
+TORPEDO,single # <- fire first should fail
+TORPEDO,single # <- fire second should work (as it doesn't get used up in the first failiure)

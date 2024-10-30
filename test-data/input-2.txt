@@ -1,0 +1,4 @@
+#ship failure test
+GT4500,1,1,1,1 #create ship that always fails, and has ammo 
+TORPEDO,single #try and shoot, should fail
+TORPEDO,single #try and shoot other cannon should fail
